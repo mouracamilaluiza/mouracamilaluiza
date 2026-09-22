@@ -32,17 +32,14 @@ Construo estratégias de qualidade para entregar software com mais confiança, c
 
 ---
 
-### AI Quality Lab
+### AI Testing Focus
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=780&lines=Validando+respostas+geradas+por+IA;Explorando+LLM+Evaluation+e+AI+Testing;Criando+estrategias+de+qualidade+para+sistemas+inteligentes;Automacao+%2B+risco+%2B+confiabilidade" alt="AI Quality Lab" />
+  <img src="https://img.shields.io/badge/Prompt%20Validation-0F172A?style=for-the-badge&logo=openai&logoColor=22D3EE" alt="Prompt Validation" />
+  <img src="https://img.shields.io/badge/LLM%20Evaluation-1E1B4B?style=for-the-badge&logo=googlegemini&logoColor=A78BFA" alt="LLM Evaluation" />
+  <img src="https://img.shields.io/badge/Reliability%20Testing-164E63?style=for-the-badge&logo=checkmarx&logoColor=67E8F9" alt="Reliability Testing" />
+  <img src="https://img.shields.io/badge/Quality%20Automation-312E81?style=for-the-badge&logo=robotframework&logoColor=white" alt="Quality Automation" />
 </div>
-
-```txt
-> testando comportamento nao deterministico
-> avaliando qualidade, consistencia e confiabilidade
-> transformando incerteza em estrategia de testes
-```
 
 ---
 
