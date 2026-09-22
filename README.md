@@ -2,10 +2,9 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7c3aed,100:06b6d4&height=180&section=header&text=Camila%20Moura&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=QA%20Engineer%20%7C%20Quality%20Engineering%20%7C%20AI%20Testing&descColor=e0f2fe&descSize=16&descAlignY=58" alt="Camila Moura" />
 
-  <h3>Quality Engineering, automação e AI Testing</h3>
-
   <p>
-    Construindo estratégias de qualidade para produtos digitais confiáveis.
+    <strong>QA Engineer</strong> construindo estratégias de qualidade para produtos digitais confiáveis.<br />
+    Automação, APIs, CI/CD e validação de sistemas com IA.
   </p>
 
   <p>
@@ -36,17 +35,6 @@ Construo estratégias de qualidade para entregar software com mais confiança, c
 
 ---
 
-### AI Testing Focus
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Prompt%20Validation-0F172A?style=for-the-badge&logo=openai&logoColor=22D3EE" alt="Prompt Validation" />
-  <img src="https://img.shields.io/badge/LLM%20Evaluation-1E1B4B?style=for-the-badge&logo=googlegemini&logoColor=A78BFA" alt="LLM Evaluation" />
-  <img src="https://img.shields.io/badge/Reliability%20Testing-164E63?style=for-the-badge&logo=checkmarx&logoColor=67E8F9" alt="Reliability Testing" />
-  <img src="https://img.shields.io/badge/Quality%20Automation-312E81?style=for-the-badge&logo=robotframework&logoColor=white" alt="Quality Automation" />
-</div>
-
----
-
 ### Certifications
 
 <div align="center">
@@ -60,6 +48,13 @@ Construo estratégias de qualidade para entregar software com mais confiança, c
 ### Stack
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Prompt%20Validation-0F172A?style=for-the-badge&logo=openai&logoColor=22D3EE" alt="Prompt Validation" />
+  <img src="https://img.shields.io/badge/LLM%20Evaluation-1E1B4B?style=for-the-badge&logo=googlegemini&logoColor=A78BFA" alt="LLM Evaluation" />
+  <img src="https://img.shields.io/badge/Reliability%20Testing-164E63?style=for-the-badge&logo=checkmarx&logoColor=67E8F9" alt="Reliability Testing" />
+  <img src="https://img.shields.io/badge/Quality%20Automation-312E81?style=for-the-badge&logo=robotframework&logoColor=white" alt="Quality Automation" />
+
+  <br /><br />
+
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
   <img src="https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robot Framework" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -72,11 +67,8 @@ Construo estratégias de qualidade para entregar software com mais confiança, c
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" />
-</div>
 
-<br />
-
-<div align="center">
+  <br /><br />
 
   <img src="https://img.shields.io/badge/API%20Testing-06B6D4?style=flat-square&logo=postman&logoColor=white" alt="API Testing" />
   <img src="https://img.shields.io/badge/E2E%20Testing-7C3AED?style=flat-square" alt="E2E Testing" />
