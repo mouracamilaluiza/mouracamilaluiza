@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7c3aed,100:06b6d4&height=180&section=header&text=Camila%20Moura&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=QA%20Engineer%20%7C%20Quality%20Engineering%20%7C%20AI%20Testing&descColor=e0f2fe&descSize=16&descAlignY=58" alt="Camila Moura" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7c3aed,100:06b6d4&height=180&section=header&text=Camila%20Moura&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Engenheira%20QA%20%7C%20Engenharia%20de%20Qualidade%20%7C%20Testes%20com%20IA&descColor=e0f2fe&descSize=16&descAlignY=58" alt="Camila Moura" />
 
   <p>
     <a href="https://www.linkedin.com/in/camilalnmoura">
@@ -25,12 +25,12 @@ Gosto de investigar sistemas, antecipar riscos e transformar incerteza em qualid
 Também acredito que boas ideias aparecem melhor depois de uma leitura tranquila, uma prática de yoga ou um cachorro pedindo atenção.
 
 <div align="center">
-  <img src="./assets/about-me.png" width="100%" alt="Ilustração com notebook, livros, yoga e cachorro" />
+  <img src="./assets/about-me.png" width="90%" alt="Ilustração com notebook, livros, yoga e cachorro" />
 </div>
 
 ---
 
-### Certifications
+### Certificações
 
 <div align="center">
   <a href="https://www.credly.com/org/brightest/badge/istqb-certified-tester-foundation-level-ctfl">
@@ -44,7 +44,7 @@ Também acredito que boas ideias aparecem melhor depois de uma leitura tranquila
 
 ---
 
-### Stack
+### Ferramentas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,js,docker,jenkins,aws,git,github" alt="Python, JavaScript, Docker, Jenkins, AWS, Git e GitHub" />
@@ -57,11 +57,11 @@ Também acredito que boas ideias aparecem melhor depois de uma leitura tranquila
 
   <br /><br />
 
-  <img src="https://img.shields.io/badge/Prompt%20Validation-0F172A?style=flat-square&logo=openai&logoColor=22D3EE" alt="Prompt Validation" />
-  <img src="https://img.shields.io/badge/LLM%20Evaluation-1E1B4B?style=flat-square&logo=googlegemini&logoColor=A78BFA" alt="LLM Evaluation" />
-  <img src="https://img.shields.io/badge/Reliability%20Testing-164E63?style=flat-square&logo=checkmarx&logoColor=67E8F9" alt="Reliability Testing" />
-  <img src="https://img.shields.io/badge/API%20Testing-06B6D4?style=flat-square&logo=postman&logoColor=white" alt="API Testing" />
-  <img src="https://img.shields.io/badge/E2E%20Testing-7C3AED?style=flat-square" alt="E2E Testing" />
+  <img src="https://img.shields.io/badge/Valida%C3%A7%C3%A3o%20de%20Prompts-0F172A?style=flat-square&logo=openai&logoColor=22D3EE" alt="Validação de Prompts" />
+  <img src="https://img.shields.io/badge/Avalia%C3%A7%C3%A3o%20de%20LLMs-1E1B4B?style=flat-square&logo=googlegemini&logoColor=A78BFA" alt="Avaliação de LLMs" />
+  <img src="https://img.shields.io/badge/Testes%20de%20Confiabilidade-164E63?style=flat-square&logo=checkmarx&logoColor=67E8F9" alt="Testes de Confiabilidade" />
+  <img src="https://img.shields.io/badge/Testes%20de%20API-06B6D4?style=flat-square&logo=postman&logoColor=white" alt="Testes de API" />
+  <img src="https://img.shields.io/badge/Testes%20E2E-7C3AED?style=flat-square" alt="Testes E2E" />
   <img src="https://img.shields.io/badge/CI%2FCD-111827?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" alt="Confluence" />
@@ -70,11 +70,11 @@ Também acredito que boas ideias aparecem melhor depois de uma leitura tranquila
 
 ---
 
-### GitHub
+### Atividade no GitHub
 
 <div align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mouracamilaluiza&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mouracamilaluiza&theme=tokyonight" alt="Top languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mouracamilaluiza&theme=tokyonight" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mouracamilaluiza&theme=tokyonight" alt="Linguagens mais usadas" />
 </div>
 
 <br />
