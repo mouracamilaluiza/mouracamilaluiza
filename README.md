@@ -25,7 +25,7 @@ Gosto de investigar sistemas, antecipar riscos e transformar incerteza em qualid
 Também acredito que boas ideias aparecem melhor depois de uma leitura tranquila, uma prática de yoga ou um cachorro pedindo atenção.
 
 <div align="center">
-  <img src="./assets/about-me.png" width="620" alt="Ilustração com notebook, livros, yoga e cachorro" />
+  <img src="./assets/about-me.png" width="100%" alt="Ilustração com notebook, livros, yoga e cachorro" />
 </div>
 
 ---
