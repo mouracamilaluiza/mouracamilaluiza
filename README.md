@@ -32,6 +32,20 @@ Construo estratégias de qualidade para entregar software com mais confiança, c
 
 ---
 
+### AI Quality Lab
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=780&lines=Validando+respostas+geradas+por+IA;Explorando+LLM+Evaluation+e+AI+Testing;Criando+estrategias+de+qualidade+para+sistemas+inteligentes;Automacao+%2B+risco+%2B+confiabilidade" alt="AI Quality Lab" />
+</div>
+
+```txt
+> testando comportamento nao deterministico
+> avaliando qualidade, consistencia e confiabilidade
+> transformando incerteza em estrategia de testes
+```
+
+---
+
 ### Stack
 
 <div align="center">
