@@ -1,80 +1,77 @@
-# Oi, eu sou a Camila Moura
+<div align="center">
 
-QA Engineer com foco em Quality Engineering, automação de testes, APIs, testes end-to-end e validação de sistemas baseados em Inteligência Artificial e LLMs.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7c3aed,100:06b6d4&height=180&section=header&text=Camila%20Moura&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=QA%20Engineer%20%7C%20Quality%20Engineering%20%7C%20AI%20Testing&descColor=e0f2fe&descSize=16&descAlignY=58" alt="Camila Moura" />
 
-Atuo criando estratégias de qualidade que ajudam times a entregar software com mais confiança, combinando testes manuais, automação, análise de risco, CI/CD e colaboração próxima com desenvolvimento, produto, dados e stakeholders.
+  <p>
+    QA Engineer focada em automação, APIs, qualidade contínua e validação de sistemas com IA.
+  </p>
 
-## Sobre mim
+  <p>
+    <a href="https://www.linkedin.com/in/camilalnmoura">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:moura.camilaluiza@gmail.com">
+      <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+    </a>
+    <a href="https://github.com/mouracamilaluiza">
+      <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
 
-- QA Engineer na Serasa Experian.
-- ISTQB CTFL e CT-GenAI.
-- Experiência com automação de testes web, APIs, pipelines e qualidade contínua.
-- Interesse crescente em AI Testing, LLM Evaluation, prompt engineering e validação de sistemas inteligentes.
-- Acredito que qualidade vai além de encontrar defeitos: é criar processos, ferramentas e cultura para prevenir falhas e melhorar a experiência do usuário.
-
-## Tecnologias e ferramentas
-
-```text
-Cypress | Robot Framework | Python | JavaScript | Cucumber | Gherkin
-Postman | APIs | Docker | WSL | Jenkins | Bitbucket Pipelines
-Jira | Confluence | Oracle SQL Developer | AWS | Git | GitHub
-```
-
-## Áreas de atuação
-
-- Automação de testes end-to-end.
-- Testes manuais, funcionais, exploratórios, regressivos e integrados.
-- Testes de APIs e integração entre serviços.
-- Estratégia de automação baseada em risco e impacto no negócio.
-- CI/CD e qualidade contínua.
-- Validação funcional e comportamental de respostas geradas por IA.
-- Construção de agentes e estratégias de teste para sistemas baseados em LLMs.
-
-## Experiência
-
-**Serasa Experian**  
-Analista de Garantia de Qualidade
-
-**Trillia**  
-Analista de Engenharia de Qualidade de TI II
-
-**ONErpm**  
-Quality Control Analyst PL
-
-**VIASOFT**  
-Automatizador de Testes Pleno
-
-**Checkmob**  
-Analista de Testes e Qualidade de Software
-
-**Justa**  
-Analista de Qualidade de Software
-
-## Formação
-
-- Pós-graduação Lato Sensu em Automação em Testes de Software - JL Treinamentos de Testes e Qualidade de Software.
-- Curso de Extensão em Penetration Testing - CESAR School.
-- CST em Análise e Desenvolvimento de Sistemas - Faculdade VINCIT.
-- Quality Engineering Academia de Testes - Accenture Technology.
-
-## Certificações
-
-- ISTQB Certified Tester Foundation Level (CTFL).
-- Testes Automatizados e IA Generativa.
-- Programa de Testes e Qualidade de Software.
-
-## GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mouracamilaluiza&show_icons=true&theme=dracula&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mouracamilaluiza&layout=compact&theme=dracula&hide_border=true)
-
-## Contato
-
-- GitHub: [@mouracamilaluiza](https://github.com/mouracamilaluiza)
-- LinkedIn: [camilalnmoura](https://www.linkedin.com/in/camilalnmoura)
-- E-mail: [moura.camilaluiza@gmail.com](mailto:moura.camilaluiza@gmail.com)
+</div>
 
 ---
 
-Obrigada por visitar meu perfil.
+### Sobre mim
+
+```txt
+Quality Engineering | Test Automation | API Testing | AI & LLM Testing
+```
+
+Construo estratégias de qualidade para entregar software com mais confiança, combinando automação, análise de risco, CI/CD e colaboração próxima com times de produto e engenharia.
+
+---
+
+### Stack
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="44" height="44" alt="Cypress" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/robotframework/robotframework-original.svg" width="44" height="44" alt="Robot Framework" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="44" height="44" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="44" height="44" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" width="44" height="44" alt="Cucumber" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="44" height="44" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="44" height="44" alt="Jenkins" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="52" height="52" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="44" height="44" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="44" height="44" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="44" height="44" alt="Jira" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="44" height="44" alt="Confluence" />
+</div>
+
+<br />
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/API%20Testing-06B6D4?style=flat-square&logo=postman&logoColor=white" alt="API Testing" />
+  <img src="https://img.shields.io/badge/E2E%20Testing-7C3AED?style=flat-square" alt="E2E Testing" />
+  <img src="https://img.shields.io/badge/CI%2FCD-111827?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/AI%20Testing-DB2777?style=flat-square" alt="AI Testing" />
+  <img src="https://img.shields.io/badge/LLM%20Evaluation-0891B2?style=flat-square" alt="LLM Evaluation" />
+
+</div>
+
+---
+
+### GitHub
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mouracamilaluiza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=a78bfa&text_color=e5e7eb" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouracamilaluiza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=e5e7eb" alt="Top languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:7c3aed,100:0f172a&height=110&section=footer" alt="footer" />
+</div>
