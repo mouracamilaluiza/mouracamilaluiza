@@ -73,8 +73,11 @@ Também acredito que boas ideias aparecem melhor depois de uma leitura tranquila
 ### Atividade no GitHub
 
 <div align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mouracamilaluiza&theme=tokyonight" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mouracamilaluiza&theme=tokyonight" alt="Linguagens mais usadas" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mouracamilaluiza/mouracamilaluiza/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mouracamilaluiza/mouracamilaluiza/output/github-snake.svg" />
+    <img alt="Animação da cobrinha comendo os commits do GitHub" src="https://raw.githubusercontent.com/mouracamilaluiza/mouracamilaluiza/output/github-snake.svg" />
+  </picture>
 </div>
 
 <br />
