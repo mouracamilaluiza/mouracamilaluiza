@@ -1,4 +1,4 @@
-name: Gerar cobrinha de contribuicoes
+name: Gerar jogo de contribuicoes
 
 on:
   schedule:
@@ -16,15 +16,13 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Gerar animacao
-        uses: Platane/snk/svg-only@v3
+      - name: Gerar Breakout
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg?palette=github-light&color_snake=#7c3aed
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#22d3ee
+          games: "breakout"
 
-      - name: Publicar animacao
+      - name: Publicar jogo
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output

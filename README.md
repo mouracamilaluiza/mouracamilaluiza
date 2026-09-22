@@ -74,9 +74,9 @@ Também acredito que boas ideias aparecem melhor depois de uma leitura tranquila
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mouracamilaluiza/mouracamilaluiza/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mouracamilaluiza/mouracamilaluiza/output/github-snake.svg" />
-    <img alt="Animação da cobrinha comendo os commits do GitHub" src="https://raw.githubusercontent.com/mouracamilaluiza/mouracamilaluiza/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mouracamilaluiza/mouracamilaluiza/output/breakout-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mouracamilaluiza/mouracamilaluiza/output/breakout-contribution-graph.svg" />
+    <img alt="Jogo Breakout com as contribuições do GitHub" src="https://raw.githubusercontent.com/mouracamilaluiza/mouracamilaluiza/output/breakout-contribution-graph.svg" />
   </picture>
 </div>
 
