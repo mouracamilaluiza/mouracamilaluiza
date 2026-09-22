@@ -3,11 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7c3aed,100:06b6d4&height=180&section=header&text=Camila%20Moura&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=QA%20Engineer%20%7C%20Quality%20Engineering%20%7C%20AI%20Testing&descColor=e0f2fe&descSize=16&descAlignY=58" alt="Camila Moura" />
 
   <p>
-    <strong>QA Engineer</strong> construindo estratégias de qualidade para produtos digitais confiáveis.<br />
-    Automação, APIs, CI/CD e validação de sistemas com IA.
-  </p>
-
-  <p>
     <a href="https://www.linkedin.com/in/camilalnmoura">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -38,9 +33,15 @@ Construo estratégias de qualidade para entregar software com mais confiança, c
 ### Certifications
 
 <div align="center">
-  <img src="https://img.shields.io/badge/ISTQB-CTFL-0F172A?style=for-the-badge&logo=checkmarx&logoColor=22D3EE" alt="ISTQB CTFL" />
-  <img src="https://img.shields.io/badge/CT--GenAI-AI%20Testing-1E1B4B?style=for-the-badge&logo=openai&logoColor=A78BFA" alt="CT-GenAI" />
-  <img src="https://img.shields.io/badge/Quality%20Engineering-Software%20Quality-164E63?style=for-the-badge&logo=testinglibrary&logoColor=67E8F9" alt="Quality Engineering" />
+  <a href="https://www.credly.com/org/brightest/badge/istqb-certified-tester-foundation-level-ctfl">
+    <img src="https://images.credly.com/images/12c64ffc-c5af-4be8-8fdc-8de91879be44/Brightest_CTFL.png" width="118" alt="ISTQB CTFL" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://istqb.org/istqb-certified-tester-specialist-level-testing-with-generative-ai-ct-genai-press-release/">
+    <img src="https://isqi.org/media/ce/82/4f/1786094404/144-CT-GenAI.png" width="118" alt="ISTQB CT-GenAI" />
+  </a>
+  <br /><br />
+  <img src="https://img.shields.io/badge/Programa%20de%20Testes%20e%20Qualidade-Software%20Quality-164E63?style=for-the-badge&logo=testinglibrary&logoColor=67E8F9" alt="Programa de Testes e Qualidade de Software" />
 </div>
 
 ---
