@@ -40,8 +40,6 @@ Construo estratégias de qualidade para entregar software com mais confiança, c
   <a href="https://istqb.org/istqb-certified-tester-specialist-level-testing-with-generative-ai-ct-genai-press-release/">
     <img src="https://isqi.org/media/ce/82/4f/1786094404/144-CT-GenAI.png" width="118" alt="ISTQB CT-GenAI" />
   </a>
-  <br /><br />
-  <img src="https://img.shields.io/badge/Programa%20de%20Testes%20e%20Qualidade-Software%20Quality-164E63?style=for-the-badge&logo=testinglibrary&logoColor=67E8F9" alt="Programa de Testes e Qualidade de Software" />
 </div>
 
 ---
