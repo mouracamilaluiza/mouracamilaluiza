@@ -20,12 +20,12 @@
 
 ### Sobre mim
 
-Construo estratégias de qualidade para entregar software com mais confiança, combinando automação, análise de risco, CI/CD e colaboração próxima com times de produto e engenharia.
+Gosto de investigar sistemas, antecipar riscos e transformar incerteza em qualidade.
+
+Também acredito que boas ideias aparecem melhor depois de uma leitura tranquila, uma prática de yoga ou um cachorro pedindo atenção.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Cachorros-code%20review%20emocional-0F172A?style=flat-square" alt="Cachorros" />
-  <img src="https://img.shields.io/badge/Yoga-debug%20da%20mente-7C3AED?style=flat-square" alt="Yoga" />
-  <img src="https://img.shields.io/badge/Livros-documentacao%20favorita-06B6D4?style=flat-square" alt="Livros" />
+  <img src="./assets/about-me.png" width="620" alt="Ilustração com notebook, livros, yoga e cachorro" />
 </div>
 
 ---
