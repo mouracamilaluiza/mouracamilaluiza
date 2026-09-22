@@ -25,7 +25,10 @@ Gosto de investigar sistemas, antecipar riscos e transformar incerteza em qualid
 Também acredito que boas ideias aparecem melhor depois de uma leitura tranquila, uma prática de yoga ou um cachorro pedindo atenção.
 
 <div align="center">
-  <img src="./assets/about-me.png" width="90%" alt="Ilustração com notebook, livros, yoga e cachorro" />
+  <img src="https://img.shields.io/badge/I%20love-dogs-0F172A?style=for-the-badge&logo=datadog&logoColor=22D3EE" alt="I love dogs" />
+  <img src="https://img.shields.io/badge/Yoga-modo%20zen-7C3AED?style=for-the-badge&logo=chakraui&logoColor=white" alt="Yoga modo zen" />
+  <img src="https://img.shields.io/badge/Book-lover-164E63?style=for-the-badge&logo=readme&logoColor=67E8F9" alt="Book lover" />
+  <img src="https://img.shields.io/badge/Coffee-first-111827?style=for-the-badge&logo=buymeacoffee&logoColor=FDE68A" alt="Coffee first" />
 </div>
 
 ---
