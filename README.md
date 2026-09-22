@@ -43,6 +43,16 @@ Construo estratégias de qualidade para entregar software com mais confiança, c
 
 ---
 
+### Certifications
+
+<div align="center">
+  <img src="https://img.shields.io/badge/ISTQB-CTFL-0F172A?style=for-the-badge&logo=checkmarx&logoColor=22D3EE" alt="ISTQB CTFL" />
+  <img src="https://img.shields.io/badge/CT--GenAI-AI%20Testing-1E1B4B?style=for-the-badge&logo=openai&logoColor=A78BFA" alt="CT-GenAI" />
+  <img src="https://img.shields.io/badge/Quality%20Engineering-Software%20Quality-164E63?style=for-the-badge&logo=testinglibrary&logoColor=67E8F9" alt="Quality Engineering" />
+</div>
+
+---
+
 ### Stack
 
 <div align="center">
