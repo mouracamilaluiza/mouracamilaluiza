@@ -1,32 +1,69 @@
-# Oi, eu sou a Camila Luiza Moura
+# Oi, eu sou a Camila Moura
 
-Seja bem-vindo(a) ao meu perfil no GitHub.
+QA Engineer com foco em Quality Engineering, automação de testes, APIs, testes end-to-end e validação de sistemas baseados em Inteligência Artificial e LLMs.
 
-Estou construindo minha trajetória em tecnologia e usando este espaço para compartilhar meus estudos, projetos e evolução como desenvolvedora.
+Atuo criando estratégias de qualidade que ajudam times a entregar software com mais confiança, combinando testes manuais, automação, análise de risco, CI/CD e colaboração próxima com desenvolvimento, produto, dados e stakeholders.
 
 ## Sobre mim
 
-- Gosto de aprender criando projetos práticos.
-- Estou sempre buscando melhorar minha lógica, organização de código e resolução de problemas.
-- Uso o GitHub para registrar minha evolução e reunir projetos que contam um pouco da minha jornada.
+- QA Engineer na Serasa Experian.
+- ISTQB CTFL e CT-GenAI.
+- Experiência com automação de testes web, APIs, pipelines e qualidade contínua.
+- Interesse crescente em AI Testing, LLM Evaluation, prompt engineering e validação de sistemas inteligentes.
+- Acredito que qualidade vai além de encontrar defeitos: é criar processos, ferramentas e cultura para prevenir falhas e melhorar a experiência do usuário.
 
 ## Tecnologias e ferramentas
 
-Adicione aqui as tecnologias que você usa ou está estudando, por exemplo:
-
 ```text
-HTML | CSS | JavaScript | Git | GitHub
+Cypress | Robot Framework | Python | JavaScript | Cucumber | Gherkin
+Postman | APIs | Docker | WSL | Jenkins | Bitbucket Pipelines
+Jira | Confluence | Oracle SQL Developer | AWS | Git | GitHub
 ```
 
-## Projetos
+## Áreas de atuação
 
-Aqui você pode destacar seus principais projetos:
+- Automação de testes end-to-end.
+- Testes manuais, funcionais, exploratórios, regressivos e integrados.
+- Testes de APIs e integração entre serviços.
+- Estratégia de automação baseada em risco e impacto no negócio.
+- CI/CD e qualidade contínua.
+- Validação funcional e comportamental de respostas geradas por IA.
+- Construção de agentes e estratégias de teste para sistemas baseados em LLMs.
 
-- **Projeto 1:** breve descrição do que ele faz.
-- **Projeto 2:** breve descrição do que ele faz.
-- **Projeto 3:** breve descrição do que ele faz.
+## Experiência
 
-## Estatísticas
+**Serasa Experian**  
+Analista de Garantia de Qualidade
+
+**Trillia**  
+Analista de Engenharia de Qualidade de TI II
+
+**ONErpm**  
+Quality Control Analyst PL
+
+**VIASOFT**  
+Automatizador de Testes Pleno
+
+**Checkmob**  
+Analista de Testes e Qualidade de Software
+
+**Justa**  
+Analista de Qualidade de Software
+
+## Formação
+
+- Pós-graduação Lato Sensu em Automação em Testes de Software - JL Treinamentos de Testes e Qualidade de Software.
+- Curso de Extensão em Penetration Testing - CESAR School.
+- CST em Análise e Desenvolvimento de Sistemas - Faculdade VINCIT.
+- Quality Engineering Academia de Testes - Accenture Technology.
+
+## Certificações
+
+- ISTQB Certified Tester Foundation Level (CTFL).
+- Testes Automatizados e IA Generativa.
+- Programa de Testes e Qualidade de Software.
+
+## GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mouracamilaluiza&show_icons=true&theme=dracula&hide_border=true)
 
@@ -34,11 +71,9 @@ Aqui você pode destacar seus principais projetos:
 
 ## Contato
 
-Você pode me encontrar por aqui:
-
 - GitHub: [@mouracamilaluiza](https://github.com/mouracamilaluiza)
-- LinkedIn: adicione seu link aqui
-- E-mail: adicione seu e-mail aqui
+- LinkedIn: [camilalnmoura](https://www.linkedin.com/in/camilalnmoura)
+- E-mail: [moura.camilaluiza@gmail.com](mailto:moura.camilaluiza@gmail.com)
 
 ---
 
