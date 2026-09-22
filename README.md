@@ -2,8 +2,10 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7c3aed,100:06b6d4&height=180&section=header&text=Camila%20Moura&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=QA%20Engineer%20%7C%20Quality%20Engineering%20%7C%20AI%20Testing&descColor=e0f2fe&descSize=16&descAlignY=58" alt="Camila Moura" />
 
+  <h3>Quality Engineering, automação e AI Testing</h3>
+
   <p>
-    QA Engineer focada em automação, APIs, qualidade contínua e validação de sistemas com IA.
+    Construindo estratégias de qualidade para produtos digitais confiáveis.
   </p>
 
   <p>
@@ -24,11 +26,13 @@
 
 ### Sobre mim
 
-```txt
-Quality Engineering | Test Automation | API Testing | AI & LLM Testing
-```
-
 Construo estratégias de qualidade para entregar software com mais confiança, combinando automação, análise de risco, CI/CD e colaboração próxima com times de produto e engenharia.
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Cachorros-code%20review%20emocional-0F172A?style=flat-square" alt="Cachorros" />
+  <img src="https://img.shields.io/badge/Yoga-debug%20da%20mente-7C3AED?style=flat-square" alt="Yoga" />
+  <img src="https://img.shields.io/badge/Livros-documentacao%20favorita-06B6D4?style=flat-square" alt="Livros" />
+</div>
 
 ---
 
