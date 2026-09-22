@@ -47,33 +47,24 @@ Construo estratégias de qualidade para entregar software com mais confiança, c
 ### Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Prompt%20Validation-0F172A?style=for-the-badge&logo=openai&logoColor=22D3EE" alt="Prompt Validation" />
-  <img src="https://img.shields.io/badge/LLM%20Evaluation-1E1B4B?style=for-the-badge&logo=googlegemini&logoColor=A78BFA" alt="LLM Evaluation" />
-  <img src="https://img.shields.io/badge/Reliability%20Testing-164E63?style=for-the-badge&logo=checkmarx&logoColor=67E8F9" alt="Reliability Testing" />
-  <img src="https://img.shields.io/badge/Quality%20Automation-312E81?style=for-the-badge&logo=robotframework&logoColor=white" alt="Quality Automation" />
+  <img src="https://skillicons.dev/icons?i=python,js,docker,jenkins,aws,git,github" alt="Python, JavaScript, Docker, Jenkins, AWS, Git e GitHub" />
 
   <br /><br />
 
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
   <img src="https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robot Framework" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=111827" alt="Cucumber" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" />
 
   <br /><br />
 
+  <img src="https://img.shields.io/badge/Prompt%20Validation-0F172A?style=flat-square&logo=openai&logoColor=22D3EE" alt="Prompt Validation" />
+  <img src="https://img.shields.io/badge/LLM%20Evaluation-1E1B4B?style=flat-square&logo=googlegemini&logoColor=A78BFA" alt="LLM Evaluation" />
+  <img src="https://img.shields.io/badge/Reliability%20Testing-164E63?style=flat-square&logo=checkmarx&logoColor=67E8F9" alt="Reliability Testing" />
   <img src="https://img.shields.io/badge/API%20Testing-06B6D4?style=flat-square&logo=postman&logoColor=white" alt="API Testing" />
   <img src="https://img.shields.io/badge/E2E%20Testing-7C3AED?style=flat-square" alt="E2E Testing" />
   <img src="https://img.shields.io/badge/CI%2FCD-111827?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
-  <img src="https://img.shields.io/badge/AI%20Testing-DB2777?style=flat-square" alt="AI Testing" />
-  <img src="https://img.shields.io/badge/LLM%20Evaluation-0891B2?style=flat-square" alt="LLM Evaluation" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" alt="Confluence" />
 
 </div>
 
